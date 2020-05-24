@@ -1,3 +1,10 @@
+<style>
+    .box{
+   float:left;
+   margin-right:20px;
+}
+</style>
+
 Cet article contient 2 cartes leaflet, affichant un GeoJson stocké via Github.
 
 <div class="box"><iframe src="https://aurelienchaumet.github.io/html/popup_click.html" frameborder="0" scrolling="no" width="100%" height="512" align="left"> </iframe> </div>
